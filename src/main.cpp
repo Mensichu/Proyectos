@@ -80,7 +80,7 @@ void loop() {
   lcd2.print(contador_visitante);
   lcd2.setCursor(12,1);
   lcd2.print(contador_local);
-  contadores();
   //Funcion de los botones para el manejo de las anotaciones.
-  //asd
+  contadores();
+  
 }
